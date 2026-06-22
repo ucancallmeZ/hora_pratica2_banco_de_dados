@@ -1,0 +1,1 @@
+mongodump --db reviews_db --out backup
